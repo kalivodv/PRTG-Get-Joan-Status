@@ -16,10 +16,10 @@ Script does return state, battery level, temperature and wifi signal level of th
 
 You need to fill these variables in script before use:
 
-$hostURI = 'http://my.joanserver.com:8081'
-$httpsURI = 'https://my.joanserver.com'
-$api_key = '123aaa456bbb'
-$api_secret = 'someveryrandomstring'
+- $hostURI = 'http://my.joanserver.com:8081'
+- $httpsURI = 'https://my.joanserver.com'
+- $api_key = '123aaa456bbb'
+- $api_secret = 'someveryrandomstring'
 
 ### Usage
 
